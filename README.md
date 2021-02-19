@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/Code-13">
-    <img src="https://github-readme-stats.vercel.app/api?username=Code-13&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Code-13&show_icons=true&count_private=true" />
   </a>
   <a href="https://github.com/Code-13">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-13&layout=compact&langs_count=9&hide=Component+Pascal" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-13&layout=compact&langs_count=9&hide=Component+Pascal&count_private=true" />
   </a>
 </p>
 
