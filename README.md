@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<p align="center">
+  <a href="https://github.com/Code-13">
+    <img src="https://github-readme-stats.vercel.app/api?username=Code-13&show_icons=true" />
+  </a>
+  <a href="https://github.com/Code-13">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-13&layout=compact&langs_count=9&hide=Component+Pascal" />
+  </a>
+</p>
+
 <!--
 **Code-13/Code-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
